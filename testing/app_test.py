@@ -1,5 +1,4 @@
 # testing/app_test.py
-import pytest
 import os
 from os import path
 import subprocess
